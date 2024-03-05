@@ -1,4 +1,9 @@
-# Creating This Site
+---
+title: "Blog Setup"
+date: 2024-03-05
+---
+
+# Blog Setup
 ## Hosting
 This site is hosted on Github using Jekyll, following [the very user friendly instructions](https://github.com/skills/github-pages
 ). 
