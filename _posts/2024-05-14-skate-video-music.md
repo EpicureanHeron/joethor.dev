@@ -1,8 +1,7 @@
-​​---
+---
 title: "Skate Video Music"
 date: 2024-05-14
 ---
-
 In middle school I got into skateboarding. This was the height of Tony Hawk Pro Skater, X-Games, etc.
 
 Skateboard companies would put out short VHS tapes featuring skaters they sponsored.
