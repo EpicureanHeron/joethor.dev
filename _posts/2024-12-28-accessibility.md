@@ -7,7 +7,7 @@ date: 2024-12-28
 I’ve had this draft kicking around for a couple of months and I want to [get it out there per my end of the year philosophy](https://joethor.dev/2024/12/26/Purge-Your-Drafts.html). 
 ## Why I Do Accessibility Work
  I decided to become an accessibility advocate at work a couple of years ago. It was driven by cynicism and guilt, but I hope it has a positive impact.
- ### Cynicism
+### Cynicism
 I heard of the upcoming impact of the [Department of Justice's rule about Title II and WCAG Standards](https://www.ada.gov/resources/2024-03-08-web-rule/). I wanted to position myself as someone who was ready to seize that initiative. I was a new developer hired during the heady days of 2021's tech boom and wanted to ensure my position had some degree of value beyond being an individual contributor.
 ### Guilt
 I am also an able-bodied, white, straight male in America. I've faced very little adversity and I am very privileged.  I want to leverage that privilege to do *something* good.
