@@ -24,22 +24,18 @@ Here are some ways I have found to help with accessibility (please to steal them
 
 -  I use best practices whenever I can for accessibility.
 
- ##  Accessibility Resources
-
- ### General Resources
-
+##  Accessibility Resources
+### General Resources
 - [Web Content Accessibility Guidelines (WCAG) 2.1](https://www.w3.org/TR/WCAG21/)
-
 - [Accessible Rich Internet Applications (ARIA)](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA)
-
 - [Mozilla Developer Docs for Accessibility](https://developer.mozilla.org/en-US/docs/Web/Accessibility)
-
 - [Screen Readers](https://www.w3schools.com/accessibility/accessibility_screen_readers.php)
+
 ### Tools
 #### [WAVE](https://wave.webaim.org/)
 WAVE is a suite of evaulaution tools which can help identify accessibility and Web Content Accessibillity Guideline errors. The tools below offer testing of individual pages and URLs. For a more systematic approach, see Popetech. The extension works on Chrome, Firefox, and Edge.
-  - [Browser Plugin](https://wave.webaim.org/extension/)
-  - [Web API](https://wave.webaim.org/standalone)
+- [Browser Plugin](https://wave.webaim.org/extension/)
+- [Web API](https://wave.webaim.org/standalone)
 
 
 #### [AInspector Sidebar (Firefox Only)](https://addons.mozilla.org/en-US/firefox/addon/ainspector-wcag/)
