@@ -38,6 +38,7 @@ LCD 64 gb with a 512 GB SD card
 - Yakuza 0
 - Vampire Survivor
 - Balatro
+
 ## 3DS
 *The Rucksack Device*
 ### My Setup  
