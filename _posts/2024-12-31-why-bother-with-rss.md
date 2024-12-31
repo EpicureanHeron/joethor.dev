@@ -18,19 +18,19 @@ The readers are what aggregate your feeds and allow you to read. It can also do 
 
 1. Decentralized
 
-- You don't have to worry about a vendor stopping support (we already suffered through that, [thanks Google](https://www.theverge.com/23778253/google-reader-death-2013-rss-social))
-- [OPML](https://en.wikipedia.org/wiki/OPML) allows you to export and import your feeds
+    - You don't have to worry about a vendor stopping support (we already suffered through that, [thanks Google](https://www.theverge.com/23778253/google-reader-death-2013-rss-social))
+    - [OPML](https://en.wikipedia.org/wiki/OPML) allows you to export and import your feeds
 
 2. (Potentially) no tracking
 
-- Good RSS feeds post their entire or enough to decide if a click is warranted to their site
-- Able to read from a centralized location that doesn't require you to jump onto their site, log cookies, log in, etc.
-- Good RSS readers won't sell you out, but if they do, see point 1 above.
+    - Good RSS feeds post their entire or enough to decide if a click is warranted to their site
+    - Able to read from a centralized location that doesn't require you to jump onto their site, log cookies, log in, etc.
+    - Good RSS readers won't sell you out, but if they do, see point 1 above.
 
 3. No algorithm
 
-- You curate your experience, you control your experience
-- [AI slop](https://nymag.com/intelligencer/article/ai-generated-content-internet-online-slop-spam.html) is less present, and if it becomes an issue...you are the curator. 
+    - You curate your experience, you control your experience
+    - [AI slop](https://nymag.com/intelligencer/article/ai-generated-content-internet-online-slop-spam.html) is less present, and if it becomes an issue...you are the curator. 
 
 ## Additional References
 
