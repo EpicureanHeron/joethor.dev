@@ -11,6 +11,8 @@ At some level, it is the original social media. There is not a central authority
 
 I want to build out a blogroll section of my own on this site. But for now, I wanted to include this project, which is basically a blogroll on steroids.
 
-[Blogscroll Github](https://github.com/blogscroll/blogscroll)
+[BlogScroll Github](https://github.com/blogscroll/blogscroll)
+
+[BlogScroll](https://blogscroll.com/)
 
 Also a little self promotion because the project just included my site!
