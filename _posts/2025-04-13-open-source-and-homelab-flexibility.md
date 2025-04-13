@@ -1,6 +1,6 @@
 ---
 title: "Open Source and Homelab Flexibility"
-date: 2025-044-13
+date: 2025-04-13
 ---
 
 # Open Source and Homelab Flexibility  
