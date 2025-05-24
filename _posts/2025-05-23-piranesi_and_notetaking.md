@@ -1,9 +1,9 @@
 ---
-title: "Piranesi and Notes"
+title: "Piranesi and Notetaking"
 date: 2025-05-24
 ---
 
-# _Piranesi_ and Notes
+# _Piranesi_ and Notetaking
 ## _Piranesi_
 I recently listened to [Susanna Clarke's _Piranesi_](https://www.goodreads.com/book/show/50202953-piranesi). 
 
@@ -13,7 +13,7 @@ The main character wanders a labyrinth taking meticulous, handwritten notes in a
 
 There is more to the book than just notetaking, it is short, mysterious, and worth your time. 
 
-## Notes
+## Notetaking
 
 
 I take notes and lots of them. 
