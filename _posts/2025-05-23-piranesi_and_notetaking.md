@@ -29,7 +29,7 @@ Joplin is where I capture most structured notes that be cataloged into work note
 
 Google Keep is a drug I'm trying to kick because I feel like it will end up like google reader. But I do use it daily. 
 
-It is my daily driver mostly because I can have the widget display something akin to the sample below right on muy phone screen: 
+It is my daily driver mostly because I can have the widget display something akin to the sample below right on my phone screen: 
 ```
 - [ ] Mon
     - [ ] pick up kids
