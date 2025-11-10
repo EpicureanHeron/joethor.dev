@@ -40,12 +40,12 @@ error mounting /dev/mmcblk0p2 at /media/MYUSERNAME/rootfs: wrong fs type, bad op
 ```
 I did some research and found the following potential leads:
 
-- https://unix.stackexchange.com/questions/315063/mount-wrong-fs-type-bad-option-bad-superblock
+- [https://unix.stackexchange.com/questions/315063/mount-wrong-fs-type-bad-option-bad-superblock](https://unix.stackexchange.com/questions/315063/mount-wrong-fs-type-bad-option-bad-superblock)
 
-- https://unix.stackexchange.com/questions/494491/sd-card-recovery-without-data-loss-or-corruption
+- [https://unix.stackexchange.com/questions/494491/sd-card-recovery-without-data-loss-or-corruption](https://unix.stackexchange.com/questions/494491/sd-card-recovery-without-data-loss-or-corruption)
 
 
-- https://www.cgsecurity.org/wiki/TestDisk_Step_By_Step
+- [https://www.cgsecurity.org/wiki/TestDisk_Step_By_Step](https://www.cgsecurity.org/wiki/TestDisk_Step_By_Step)
 
 I tried to get more info on my situation by running `lsblk -f`
 ```
@@ -62,9 +62,9 @@ I started with DDrescue.
 
 ### DDrescue
 DDRescue can copy data and create an image from that data. Pretty cool! It also have utilities built in to try to fix corrupted data. 
-- https://www.gnu.org/software/ddrescue/
-- https://darwinsdata.com/how-to-use-ddrescue-in-ubuntu/
-- https://linuxconfig.org/how-to-repair-and-clone-disk-with-ddrescue
+- [https://www.gnu.org/software/ddrescue/](https://www.gnu.org/software/ddrescue/)
+- [https://darwinsdata.com/how-to-use-ddrescue-in-ubuntu/](https://darwinsdata.com/how-to-use-ddrescue-in-ubuntu/)
+- [https://linuxconfig.org/how-to-repair-and-clone-disk-with-ddrescue](https://linuxconfig.org/how-to-repair-and-clone-disk-with-ddrescue)
 
 I installed DDRescue  `sudo apt install gddrescue`
 
@@ -108,7 +108,7 @@ This looked promising! It said everything was rescued!
 I wiped the old micro SD card. 
 I tried to use the very powerful `dd` to reflash the image on the recently wiped card. 
 
-- https://linuxconfig.org/Dd
+- [https://linuxconfig.org/Dd](https://linuxconfig.org/Dd)
 
 So I tried writing `sudo dd if=mmcblk0.img of=/dev/mmcblk0` 
 
