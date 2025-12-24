@@ -5,6 +5,7 @@ date: 2025-12-24
 # Goals
 ## Previous Year's Posts
 - [2024](https://joethor.dev/2024/12/20/goals-achieved-2024-edition.html)   
+
 ## Goals Achieved 2025 - Updated
 
 
