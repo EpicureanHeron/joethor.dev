@@ -2,6 +2,7 @@
 title: "Media I Enjoyed - 2025"
 date: 2025-12-31
 ---
+
 # Media I Enjoyed
 Similar to my [Goals Achieved](https://joethor.dev/2025/12/24/goals-achieved-2025-edition.html) post, I want to try to capture media I enjoyed each year. I do not want to use Letterbox (in some small part because I don't really watch movies anymore) or Backloggd. I want to own these lists. 
 
