@@ -15,7 +15,7 @@ This should be something you can copy and paste, make a tiny edit to the code, a
 
 Feel free to use this script in your life to help capture your moments of gratitude and create a sustainable and positive habit. 
 
-I have been using this daily March 3rd, 2021. It has captured everything from the feeling of having fresh sheets on my bed to additions to our family. 
+I have been using this daily since March 11th, 2021. It has captured everything from the feeling of having fresh sheets on my bed to additions to our family. 
 
 ## Overview
 
