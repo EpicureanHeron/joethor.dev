@@ -1,6 +1,16 @@
-# Steam Controller 
+# Controller Firmware Support: SteamOS vs Windows
+
+I had two very different experiences using two different controllers. 
+
+## TL;DR
+[SteamOS](https://store.steampowered.com/steamos) and all the hardware that Valve has created makes a great ecosystem for gaming. You can bring what you want and it either works right away or is easy enough to get up and running.
+
+ Windows is becoming more of a walled garden that is unpleasant and exclusive. 
+
 
 ## Steam Hardware Personal History
+
+Let's talk about the Steam Controller.
 
 No, not that Steam Controller https://store.steampowered.com/sale/steamcontroller
 
@@ -10,42 +20,49 @@ I am a sucker bespoke hardware.
 
 I was pretty excited when Valve was making moves into the hardware space in the mid 2010s. The OG Steam Machines, Steam Link, and Steam Controller.
 
-But I was not excited enough to actually buy of those things when they came out. But the latter two pieces of hardware were eventually discounted heavily and I snagged them.
+But I was not excited enough to actually buy of those things when they came out. But the latter two pieces of hardware were eventually discounted heavily and I snagged them (and they became mothballed by Valve)
 
 The Steam Link I used intermittently when I built my gaming pc back in 2015/2016 (pc part picker link) to stream down to the TV. 
 
 I purchased the Steam Link in 2017 for $15.00. Then I purchased the Steam Controller in 2019 for $5 (plus around $10 for shipping). 
 
-I also later became a huge fan of the Steam Deck, but that is chronicled in another post. (LINKS)
+I also later became a [huge fan of the Steam Deck](https://joethor.dev/2024/12/30/gaming-devices.html), picking one up in April of 2022. 
 
-## Fast Forward 5 years
+## The New Use Case
 
 
-My partner and I have been playing some mystery games (see post on media consumption). 
+My partner and I have been playing some mystery games, specifically [Return of the Obra Dinn](https://store.steampowered.com/app/653530/Return_of_the_Obra_Dinn/) and [Case of the Golden Idol](https://store.steampowered.com/app/1677770/The_Case_of_the_Golden_Idol/). 
 
-I was shocked when I plugged in my Steam controller to my JSAUX Steam Deck Dock and it just worked! 
+I have a [JSAUX Steam Deck Dock](https://jsaux.com/products/steam-deck-docking-station) plugged into our TV. 
 
-Full disclousre, the controller \doesn't feel good. But it works! That is more than I can say for my Xbox controller
+I have a bunch of controllers laying around, and I love the the feel of the Xbox One controller. 
+
+However, we have exclusively been using the 2015 Steam Deck Controller (and even using some of its gyro controls). 
+
+It just worked right away when I plugged in the USB dongle into the dock.
+
+And also, the Xbox One controller has been a nightmare. 
 
 
 ## Xbox Hardware Insanity 
 
-Tried to get my Xbox one controller working on my Steam Deck via bluetooth. 
+I tried to get my Xbox One controller working on my Steam Deck via bluetooth. 
 
-It connects but then disconnects immediately. I searched this issue. 
+It connected but then disconnected immediately. [This is a known issue with a resolution](https://leveluptalk.com/news/xbox-controller-steam-deck-connection-issues/). I needed to update the firmware on the controller. 
 
-Needs a firmware update to sync correctly to the steam deck. 
+Apparently to update this controller, I need to use the [Xbox Accessories App on Windows](https://apps.microsoft.com/detail/9nblggh30xj3?hl=en-US&gl=US).
 
-Dusted my gaming pc I built several years and it booted right up! Plugged in the controller. Followed the instructions here: 
+I built a gaming PC years ago and it is the only Windows device I own still. It is in storage. I went ahead and dusted it off and booted it up. 
 
-Installed the Xbox accessories app. 
+I installed the Xbox Accessories App. 
 
-Need a freaking windows update. 
+However, I am still running Windows 10 (shame on me, but I never boot the thing up).
 
-To use my controller. 
+The Xbox Accessories App does not work on Windows 10 any longer, it only works on Windows 11.
 
-Oh man.
+So to update the firmware on my Xbox One controller, I need to update to Windows 11 in order to run the firmware update.
 
-## Linux vs Windows
+Compare this to the plug and play experience I had with the Steam Deck Controller from 2015. 
 
-Not ground breaking thoughts, but the more I am able to rely upon FOSS projects and hardware, the better. Case in point, the Steam Controller OG vs the XBOX One Controller and a firmware update. 
+I am less and less inclined to use anything Microsoft makes if it means I have to pay to keep even my hardware working. 
+
