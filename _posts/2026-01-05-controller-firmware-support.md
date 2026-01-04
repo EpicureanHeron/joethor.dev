@@ -1,3 +1,10 @@
+---
+title: "Controller Firmware Support: SteamOS vs Windows"
+date: 2026-01-05
+---
+
+
+
 # Controller Firmware Support: SteamOS vs Windows
 
 I had two very different experiences using two different controllers. 
