@@ -20,7 +20,7 @@ It was shockingly easy to set up. I initially installed it on my Ubuntu laptop a
 
 They have a docker container, which I am running on my Raspberry Pi 4 for the server. 
 
-### Listening To Your Tittles
+### Listening To Your Titles
 They also have an incredibly performant [Android App](https://play.google.com/store/apps/details?id=com.audiobookshelf.app&hl=en-US&pli=1) (especially compared to Audible's). 
 
 I was able to point to my Tailscale address for the audiobookshelf docker container from the app's interface. Now I have all my audiobooks on the go without any pain. It saves my spot, has great metadata, and has features I have not even played around with. 
