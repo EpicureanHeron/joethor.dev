@@ -45,14 +45,19 @@ I have had mix luck launching PICO-8 through Retroarch (my preferred launcher). 
 
 I have yet to figure out if "save states" work. 
 
+I have never connected my RG35XXSP to the internet, but I believe "SPLORE" is an online cart browser and that is rad that I could possibly use it to get carts on my device. 
+
 ## The Games
 
-I recommend checking out the [200 Best PICO-8 Games](https://nerdyteachers.com/PICO-8/Games/Top200/). I played through [Celeste Classic](https://www.lexaloffle.com/bbs/?pid=11722) which was an excellent platformer. Spoiler, [Celeste](https://www.celestegame.com/) actually features the PICO-8 in it and you can play Celeste Classic from within the game itself. 
+I recommend checking out the [200 Best PICO-8 Games](https://nerdyteachers.com/PICO-8/Games/Top200/). I played through [Celeste Classic](https://www.lexaloffle.com/bbs/?pid=11722) which is an excellent platformer. Spoiler, [Celeste](https://www.celestegame.com/) actually features the PICO-8 in it and you can play Celeste Classic from within the game itself. 
+
+![My First Complete Run of Celeste Classic]({{"/assets/images/celeste_classic.jpg" | relative_url}})
 
 I also really like [Just One Boss](https://www.lexaloffle.com/bbs/?pid=49234). 
 
+There are also remakes / demakes of DOOM, Terraria, and FEZ which look fun. 
+
 I assume there are games to purchase, but I have had luck just downloading the "cartridges" right from links above. They get saved as a `.p8.png` which is fascinating. 
 
-## Bonus
 
 
