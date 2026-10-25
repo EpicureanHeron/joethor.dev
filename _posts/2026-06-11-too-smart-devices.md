@@ -4,12 +4,12 @@ date: 2026-06-11
 ---
 
 # Too Smart Devices
-Forgive me the pun. I have two stories to share about smart devices.
+Forgive the low effort pun. I have two stories to share about smart devices.
 
 ## Smart Bassinet 
-We grew our family in February and I got to enjoy [some parental leave this summer to bond with the little guy](). 
+We grew our family in February and I got to enjoy [some parental leave this summer to bond with the little guy](https://joethor.dev/2026/05/12/parental-leave.html). 
 
-We have some wonderful friends who lent us their [SNO0](https://www.happiestbaby.com/products/snoo-smart-bassinet), which is a smart baby sleeper and bassinet. 
+We have some wonderful friends who lent us their [SNOO](https://www.happiestbaby.com/products/snoo-smart-bassinet), which is a smart baby sleeper and bassinet. 
 
 The idea is, with the baby strapped into the bassinet, the SNOO will monitor the babies movements and respond by rocking the baby as needed. For parents, anything that promises to "fix" sleep for a kid is tempting snake oil. 
 
@@ -17,11 +17,13 @@ The company behind the SNOO previously provided the bassinet for a price and it 
 
 Well, try it out in theory. 
 
-It has an app that enables the bassinet's connection to the internet. However, it would not connect to download the firmware updates. I temporarily disabled my Pihole and tried again and came up short. After researching the issue, we have 5ghz wifi and SNOO recommends 2.4ghz. I switched the network to 2.4ghz and tried again. Nothing. Then I got distracted.
+It has an app that enables the bassinet's connection to the internet. During set up, it would not connect to download the firmware updates. I temporarily disabled my [Pihole](https://pi-hole.net/) and tried again and came up short. After researching the issue, [we have 5ghz wifi and SNOO recommends 2.4ghz](https://www.reddit.com/r/SnooLife/comments/o0sgrg/wifi_network_5ghz/). I switched the network to 2.4ghz and tried again. Nothing. Then I was needed elsewhere by one of the three kiddos in our family.
 
-And then, my parent's Pixel 7a overheated and basically was unusable. We were trying to figure out could have caused the device to become unresponsive. After switching the network back to 5ghz the Pixel came back to life. In hindsight, I should've set up a guest 2.4ghz network or something ephemeral and temporary for the SNOO. 
+So the network remained 2.5ghz. Suddenly, my partner's Pixel 7a overheated and basically was unusable. We were trying to figure out could have caused the device to become unresponsive. After switching the network back to 5ghz the Pixel came back to life. In hindsight, I should've set up a guest 2.4ghz network or something ephemeral and temporary for the SNOO. 
 
 We thanked our friends and decided the SNOO was not for us. 
+
+Overall, I am grateful we got to try it out, but the SNOO was more trouble than what it was worth. And now we do not have to try to transition from having that sleep assisted bassinet now that our youngest is in a crib. 
 
 ## DIY Smart Kettle 
 
@@ -40,4 +42,4 @@ It is simple, it works, the app is tolerable, and most importantly, I can remove
 
 ## Ending Thoughts
 
-Smart things can be more trouble than they are worth. The worst example of this is building a stellar automation that makes your life easier, but suddenly breaks. The two examples above are an abject failure (SNOO) and a pretty great success (or failure waiting to happen) the SwitchBot Kettle. Arguably, I can go back to making my analog tea without issue (just a couple of minutes waiting). The SNOO was basically useless and worse, caused knock on effects with our home network. 
+Smart things can be more trouble than they are worth. The worst example of this is building a stellar automation that makes your life easier, but suddenly it breaks. The two examples above are an obvious failure (SNOO) and a pretty great success (or failure waiting to happen) the SwitchBot Kettle. Arguably, I can go back to making my analog tea without issue (just a couple of minutes waiting). The SNOO was basically useless and worse, caused knock on effects with our home network. 
